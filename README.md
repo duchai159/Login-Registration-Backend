@@ -1,2 +1,7 @@
 ﻿# Login-Registration-Backend
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/100998739/224073948-7f6d9900-2260-4149-8e5d-42a2893ec570.png">
+- GET register
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/100998739/224075630-f6ffa291-9c82-4c42-9047-aabdd19c28d9.png">
+- Send email
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/100998739/224076965-07e50b9e-ebb5-4912-a62b-8b1df8be232e.png">
+
+
